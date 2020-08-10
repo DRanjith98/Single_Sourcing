@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.rap.ui.entrypoint">
+      <entrypoint
+            applicationId="com.ltts.example.id"
+            id="com.ltts.example.rap.entrypoint"
+            path="/run">
+      </entrypoint>
+   </extension>
+   <extension
+         point="org.eclipse.rap.ui.branding">
+      <branding
+            id="com.ltts.example.rap.branding"
+            themeId="org.eclipse.rap.design.example.business.theme"
+            title="RAP Example Theme">
+      </branding>
+   </extension>
+
+</plugin>

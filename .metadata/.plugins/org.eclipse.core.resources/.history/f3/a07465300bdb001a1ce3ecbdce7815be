@@ -1,0 +1,5 @@
+package com.ltts.example.commands;
+
+public class AboutDialog {
+
+}

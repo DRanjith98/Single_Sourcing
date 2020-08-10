@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Rap
+Bundle-SymbolicName: com.ltts.example.rap
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.ltts.example.rap.Activator
+Bundle-Vendor: LTTS
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: com.ltts.example.rap
+Bundle-ActivationPolicy: lazy
+Require-Bundle: org.eclipse.rap.ui;bundle-version="2.3.2"
