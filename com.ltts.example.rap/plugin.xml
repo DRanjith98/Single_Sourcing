@@ -27,7 +27,7 @@
                label="Run">
             <command
                   commandId="com.ltts.example.rap.command.run"
-                  label="Run"
+                  label="Open_View_4"
                   style="push">
             </command>
          </menu>
@@ -36,9 +36,34 @@
    <extension
          point="org.eclipse.ui.commands">
       <command
+            defaultHandler="com.ltts.example.rap.View_4_Handler"
             id="com.ltts.example.rap.command.run"
-            name="Run">
+            name="Open_View_4">
       </command>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectiveExtensions">
+      <perspectiveExtension
+            targetID="com.ltts.example.perspective">
+         <view
+               closeable="true"
+               id="com.ltts.example.rap.view_4"
+               minimized="false"
+               relationship="top"
+               relative="com.ltts.example.view_3"
+               showTitle="true"
+               visible="true">
+         </view>
+      </perspectiveExtension>
+   </extension>
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="com.ltts.example.rap.View_4"
+            id="com.ltts.example.rap.view_4"
+            name="View_4"
+            restorable="true">
+      </view>
    </extension>
 
 </plugin>
