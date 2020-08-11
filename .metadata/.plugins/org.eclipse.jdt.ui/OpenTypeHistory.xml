@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=com.ltts.example/src&lt;com.ltts.example{Application.java[Application" modifiers="1" timestamp="1597064262076"/>
+<typeInfo handle="=com.ltts.example/src&lt;com.ltts.example.commands{AboutCommand.java[AboutCommand" modifiers="1" timestamp="1597075256670"/>
 <typeInfo handle="=com.ltts.example/src&lt;com.ltts.example{Perspective.java[Perspective" modifiers="1" timestamp="1597063463705"/>
+<typeInfo handle="=com.ltts.example.rap/D:\/RAP_Workspace_SingleSourcing\/.metadata\/.plugins\/org.eclipse.pde.core\/.bundle_pool\/plugins\/org.eclipse.rap.ui.workbench_2.3.2.20150119-1706.jar&lt;org.eclipse.ui.part(ViewPart.class[ViewPart" modifiers="1057" timestamp="1597063729131"/>
+<typeInfo handle="=com.ltts.example/src&lt;com.ltts.example.views{View_2.java[View_2" modifiers="1" timestamp="1597131068636"/>
+<typeInfo handle="=com.ltts.example/src&lt;com.ltts.example.views{View_3.java[View_3" modifiers="1" timestamp="1597131030359"/>
+<typeInfo handle="=com.ltts.example/src&lt;com.ltts.example.views{View_1_Handler.java[View_1_Handler" modifiers="1" timestamp="1597134632510"/>
+<typeInfo handle="=com.ltts.example/D:\/RAP_Workspace_SingleSourcing\/.metadata\/.plugins\/org.eclipse.pde.core\/.bundle_pool\/plugins\/org.eclipse.core.commands_3.6.100.v20140528-1422.jar&lt;org.eclipse.core.commands(AbstractHandler.class[AbstractHandler" modifiers="1057" timestamp="1597063727623"/>
 </typeInfoHistroy>

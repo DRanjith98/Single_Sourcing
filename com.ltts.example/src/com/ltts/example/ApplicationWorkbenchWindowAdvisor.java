@@ -33,6 +33,6 @@ public class ApplicationWorkbenchWindowAdvisor extends WorkbenchWindowAdvisor {
        // Show ProgressIndicator
        configurer.setShowProgressIndicator(true);
         
-       configurer.setTitle("Hello RAP Workbench"); //$NON-NLS-1$
+       configurer.setTitle(" RAP Example "); //$NON-NLS-1$
    }
 }
