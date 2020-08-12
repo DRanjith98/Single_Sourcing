@@ -7,7 +7,6 @@ public class View_2 extends ViewPart {
 
 	@Override
 	public void createPartControl(Composite parent) {
-		// TODO Auto-generated method stub
 
 	}
 

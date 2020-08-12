@@ -5,16 +5,10 @@ import org.eclipse.ui.part.ViewPart;
 
 public class View_3 extends ViewPart {
 
-	
-	
 	@Override
 	public void createPartControl(Composite parent) {
-		
 
 	}
-	
-	
-	
 
 	@Override
 	public void setFocus() {

@@ -42,6 +42,11 @@
                </command>
             </menu>
             <command
+                  commandId="com.ltts.example.command.wizard"
+                  label="Open_Wizard"
+                  style="push">
+            </command>
+            <command
                   commandId="org.eclipse.ui.file.exit"
                   label="Exit"
                   style="push">
@@ -71,7 +76,7 @@
                id="com.ltts.example.toolbar_about">
             <command
                   commandId="com.ltts.example.commands.about"
-                  icon="icons/icon_2.png"
+                  icon="icons/icon_3.png"
                   style="push">
             </command>
             <command
@@ -108,6 +113,11 @@
             defaultHandler="com.ltts.example.views.View_3_Handler"
             id="com.ltts.example.command.openView3"
             name="Open View_3">
+      </command>
+      <command
+            defaultHandler="com.ltts.example.WizardHandler"
+            id="com.ltts.example.command.wizard"
+            name="Open Wizard">
       </command>
    </extension>
    <extension
